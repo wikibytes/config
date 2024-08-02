@@ -1,0 +1,9 @@
+# import = ["/home/nirakar/.config/alacritty/.keybindings.toml"]
+[window]
+# dimensions = { columns = 10, lines = 10 }
+# decorations = "transparent"
+# opacity = 0.5
+# blur = false
+
+[colors]
+# transparent_background_colors = true
